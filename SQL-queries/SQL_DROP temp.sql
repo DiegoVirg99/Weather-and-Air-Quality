@@ -1,0 +1,2 @@
+ALTER TABLE AirQuality_Data
+DROP COLUMN TempID;
